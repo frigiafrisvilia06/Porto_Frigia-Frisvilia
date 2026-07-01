@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+venv.bak/
+
+# Flask / app instance
+instance/
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+.env.*
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.pytest_cache/
