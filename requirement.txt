@@ -1,5 +1,0 @@
-flask
-python-dotenv
-pymysql
-cloudinary
-resend
